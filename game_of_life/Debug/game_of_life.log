@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Karlo\OneDrive\Desktop\New folder\HomeWork 02\game_of_life\Source.cpp(85,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Karlo\OneDrive\Desktop\New folder\HomeWork 02\game_of_life\Source.cpp(105,26): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+          with
+          [
+              _Ty=int
+          ]
+  game_of_life.vcxproj -> C:\Users\Karlo\OneDrive\Desktop\New folder\HomeWork 02\Debug\game_of_life.exe
